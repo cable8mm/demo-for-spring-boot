@@ -3,6 +3,10 @@
 [![Validate Gradle Wrapper](https://github.com/cable8mm/demo-for-spring-boot/actions/workflows/gradle-wrapper-validation.yml/badge.svg)](https://github.com/cable8mm/demo-for-spring-boot/actions/workflows/gradle-wrapper-validation.yml)
 [![Test with Gradle](https://github.com/cable8mm/demo-for-spring-boot/actions/workflows/gradle-test.yml/badge.svg)](https://github.com/cable8mm/demo-for-spring-boot/actions/workflows/gradle-test.yml)
 [![Java CI with Gradle](https://github.com/cable8mm/demo-for-spring-boot/actions/workflows/gradle.yml/badge.svg)](https://github.com/cable8mm/demo-for-spring-boot/actions/workflows/gradle.yml)
+![Static Badge](https://img.shields.io/badge/SpringBoot-3.2.3-6DB33F?logo=SpringBoot)
+![Static Badge](https://img.shields.io/badge/Java-17-orange)
+![Static Badge](https://img.shields.io/badge/Gradle-Kotlin-8151FF?logo=Gradle&labelColor=012F38)
+![Static Badge](https://img.shields.io/badge/packaging-Jar-brown?logo=Spring)
 
 This repository has been developed for testing the last spring stack. We will find out the best practice.
 

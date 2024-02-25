@@ -22,6 +22,16 @@ Dependencies
 
 - None
 
+## Coding Style
+
+You must apply [Google Style](https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml) for your java codes.
+
+VSCode can fix your code automatically on save. Set the below in `setting.json`
+
+```sh
+"java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml",
+```
+
 ## Development
 
 You would change vscode `Hot code replace` setting from `manual` to `auto` then you don't need restart when you have changed your codes.

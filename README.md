@@ -4,10 +4,10 @@ This repository has been developed for testing the last spring stack. We will fi
 
 ## Spring initalizr setting
 
-- Project : Gradle - Groovy
+- Project : Gradle - Kotlin
 - Language : Java
 - Spring Boot : 3.2.3
-  
+
 Project metadata:
 
 - Group : com.example
@@ -21,6 +21,16 @@ Project metadata:
 Dependencies
 
 - None
+
+## Development
+
+You would change vscode `Hot code replace` setting from `manual` to `auto` then you don't need restart when you have changed your codes.
+
+You must run not release mode but debug mode, than you must run [below command](https://www.digitalsanctuary.com/java/springboot-devtools-auto-restart-and-live-reload.html).
+
+```sh
+gradle -t classes
+```
 
 ## License
 

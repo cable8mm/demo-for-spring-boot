@@ -12,9 +12,7 @@
     </head>
     <body>
         <div class="container my-2" align="center">
-            <h1>
-                Hello, <span th:text="${name}" th:remove="tag">Guest</span>.
-            </h1>
+            <h1 th:text="|Hello, ${name}!|" />
         </div>
     </body>
 </html>

@@ -12,25 +12,17 @@
 
 This repository has been developed for testing the last spring stack. We will find out the best practice.
 
-## Spring initalizr setting
+## Installation
 
-- Project : Gradle - Kotlin
-- Language : Java
-- Spring Boot : 3.2.3
+```sh
+git https://github.com/cable8mm/demo-for-spring-boot.git
 
-Project metadata:
+cd demo-for-spring-boot
 
-- Group : com.example
-- Artifact : demo
-- Name : demo
-- Description : Demo project for Spring Boot
-- Package name : com.example.demo
-- Packaging : Jar
-- java : 17
+./gradlew bootRun
+```
 
-Dependencies
-
-- None
+And visit http://localhost:8080 or you would be better visit https://demo-for-spring-boot.test to refer [the article](https://www.palgle.com/2024/02/23/spring-boot-with-custom-domain/).
 
 ## Coding Style
 

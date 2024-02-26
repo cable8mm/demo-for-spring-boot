@@ -37,5 +37,5 @@ sentry {
 
   org = "cable8mm"
   projectName = "demo-for-spring-boot"
-  authToken = System.getenv("SENTRY_AUTH_TOKEN")
+  authToken = "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"
 }

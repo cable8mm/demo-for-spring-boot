@@ -1,8 +1,8 @@
 plugins {
 	java
-	id("org.springframework.boot") version "3.4.1"
+	id("org.springframework.boot") version "3.5.7"
 	id("io.spring.dependency-management") version "1.1.7"
-  id("io.sentry.jvm.gradle") version "4.14.1"
+  id("io.sentry.jvm.gradle") version "5.12.2"
 }
 
 group = "com.example"
